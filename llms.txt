@@ -1,0 +1,22 @@
+# Anima Volitiva — Managed B2B Coffee Infrastructure (Kyiv & Kyiv Oblast)
+
+> Anima Volitiva provides fully-managed, flat-rate B2B coffee infrastructure for HoReCa, retail and corporate offices across Kyiv and Kyiv Oblast: Swiss-grade Franke and WMF super-automatic machines, origin-traced specialty beans, mandatory 2-hour barista training and 24/7 technical support with a guaranteed 2-hour emergency response — one flat monthly invoice, zero upfront CapEx.
+
+## Key facts
+- Service area: Kyiv and Kyiv Oblast (50 km radius)
+- Model: zero upfront CapEx; flat monthly invoice ($1,997/mo Growth Bundle; Enterprise from $10,000+)
+- Guaranteed 2-hour emergency response, 24/7, no call-out fees
+- Equipment: Franke, WMF, Nuova Simonelli, La Spaziale, Rancilio
+- Water: filtration calibrated to Kyiv's 124 mg/L hardness; voltage protection for blackouts
+- No forced bean quotas; origin-traced specialty-grade beans
+- Proven: 100% SLA compliance (2026), 3x retail coffee revenue, 40% fewer workplace complaints in 30 days
+
+## Pages
+- [Home](https://dancanadian.github.io/anima-coffee-site/): overview, offer, proof, comparison
+- [Services](https://dancanadian.github.io/anima-coffee-site/services.html): all six services
+- [Machine rental](https://dancanadian.github.io/anima-coffee-site/how-to-rent.html): zero-CapEx OpEx rental
+- [Monthly service contract](https://dancanadian.github.io/anima-coffee-site/monthly-contract.html): what's included
+- [Specialty bean supply](https://dancanadian.github.io/anima-coffee-site/specialty-beans.html): origin-traced beans
+- [Barista staff training](https://dancanadian.github.io/anima-coffee-site/barista-training.html): mandatory 2-hour program
+- [Maintenance & 24/7 support](https://dancanadian.github.io/anima-coffee-site/maintenance.html): 2-hour SLA
+- [Swiss vs. commercial machines](https://dancanadian.github.io/anima-coffee-site/swiss-vs-commercial.html): why Swiss-grade
