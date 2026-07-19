@@ -112,4 +112,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://dancanadian.github.io/anima-coffee-site/swiss-vs-commercial.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://dancanadian.github.io/anima-coffee-site/ua/swiss-vs-commercial.html"/>
   </url>
+  <url><loc>https://dancanadian.github.io/anima-coffee-site/answers.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://dancanadian.github.io/anima-coffee-site/ua/answers.html</loc><changefreq>weekly</changefreq></url>
 </urlset>

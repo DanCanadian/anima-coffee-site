@@ -32,3 +32,4 @@
 - [Навчання персоналу-бариста](https://dancanadian.github.io/anima-coffee-site/ua/barista-training.html): обов'язкова 2-годинна програма
 - [Обслуговування та підтримка 24/7](https://dancanadian.github.io/anima-coffee-site/ua/maintenance.html): SLA за 2 години
 - [Швейцарські vs комерційні машини](https://dancanadian.github.io/anima-coffee-site/ua/swiss-vs-commercial.html): чому швейцарський клас
+- [Answers / Q&A](https://dancanadian.github.io/anima-coffee-site/answers.html): 13 question-targeted answers (rental, contract, beans, training, maintenance, machines) — Ukrainian at /ua/answers.html
