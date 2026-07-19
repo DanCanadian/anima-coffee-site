@@ -201,3 +201,10 @@ footer .brand{font-size:18px}
 .aio .lab{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--accent-deep);font-weight:700;margin-bottom:10px}
 .aio p{font-size:19px;line-height:1.55;color:var(--ink);font-weight:500}
 .aio-wrap{padding:56px 0 0}
+
+/* --- language switcher --- */
+.lang{display:flex;gap:2px;align-items:center;margin-left:8px;font-size:13px;font-weight:600}
+.lang a{color:#8f8272;padding:4px 8px;border-radius:3px}
+.lang a.on{color:var(--cream);background:rgba(194,128,60,.22)}
+.lang a:hover{color:var(--cream)}
+.lang .sep{color:#5a4d3f}
