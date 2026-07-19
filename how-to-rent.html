@@ -78,15 +78,87 @@
 
 <footer><div class="wrap"><a class="brand" href="index.html" style="color:#cbb9a6">Anima <span style="color:var(--accent)">Volitiva</span></a><div class="fnav"><a href="services.html">Services</a><a href="how-to-rent.html">Rental</a><a href="monthly-contract.html">Monthly contract</a><a href="specialty-beans.html">Beans</a><a href="barista-training.html">Training</a><a href="maintenance.html">Support</a></div><div>© 2026 Anima Volitiva · Kyiv &amp; Kyiv Oblast</div></div></footer>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@graph":[
-{"@type":"Organization","@id":"https://animacoffee.com.ua/#organization","name":"Anima Volitiva","url":"https://animacoffee.com.ua/","areaServed":"Kyiv Oblast","description":"Managed B2B coffee infrastructure — Swiss machines, specialty beans, training and 24/7 support in one flat monthly invoice with a 2-hour SLA."},
-{"@type":"Service","name":'Coffee Machine Rental in Kyiv',"provider":{"@id":"https://animacoffee.com.ua/#organization"},"areaServed":"Kyiv Oblast","description":'Zero-CapEx professional espresso machine rental in Kyiv — premium equipment, 24/7 support and unified supply, sized to your volume.',"offers":{"@type":"AggregateOffer","priceCurrency":"USD","lowPrice":"1997.00","highPrice":"10000.00","offerCount":"2"}},
-{"@type":"BreadcrumbList","itemListElement":[
-{"@type":"ListItem","position":1,"name":"Home","item":"https://dancanadian.github.io/anima-coffee-site/"},
-{"@type":"ListItem","position":2,"name":"Services","item":"https://dancanadian.github.io/anima-coffee-site/services.html"},
-{"@type":"ListItem","position":3,"name":'Coffee Machine Rental in Kyiv',"item":'https://dancanadian.github.io/anima-coffee-site/how-to-rent.html'}
-]}
-]}
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Organization",
+   "@id": "https://animacoffee.com.ua/#organization",
+   "name": "Anima Volitiva",
+   "url": "https://animacoffee.com.ua/",
+   "areaServed": "Kyiv Oblast",
+   "description": "Managed B2B coffee infrastructure — Swiss machines, specialty beans, training and 24/7 support in one flat monthly invoice with a 2-hour SLA."
+  },
+  {
+   "@type": "Service",
+   "name": "Coffee Machine Rental in Kyiv",
+   "provider": {
+    "@id": "https://animacoffee.com.ua/#organization"
+   },
+   "areaServed": "Kyiv Oblast",
+   "description": "Zero-CapEx professional espresso machine rental in Kyiv — premium equipment, 24/7 support and unified supply, sized to your volume.",
+   "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "lowPrice": "1997.00",
+    "highPrice": "10000.00",
+    "offerCount": "2"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://dancanadian.github.io/anima-coffee-site/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Services",
+     "item": "https://dancanadian.github.io/anima-coffee-site/services.html"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Coffee Machine Rental in Kyiv",
+     "item": "https://dancanadian.github.io/anima-coffee-site/how-to-rent.html"
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Is there really no upfront cost?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Correct. Rental is an OpEx model — you access commercial-grade equipment, maintenance and supply without capital expenditure, on a predictable monthly basis."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What size machine will I get?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Whatever your volume needs — from 1, 2 or 3-group semi-automatics to super-automatics for 200+ cups/day. We size it consultatively during the audit."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What happens if it breaks?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "24/7 support with rapid response inside Kyiv, plus a loaner guarantee so you're never without a working machine during service."
+     }
+    }
+   ]
+  }
+ ]
+}
 </script>
 </body>
 </html>
