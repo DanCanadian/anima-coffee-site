@@ -15,6 +15,13 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://aeo.animacoffee.com.ua/ua/services.html"/>
   </url>
   <url>
+    <loc>https://aeo.animacoffee.com.ua/about.html</loc><lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://aeo.animacoffee.com.ua/ua/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aeo.animacoffee.com.ua/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aeo.animacoffee.com.ua/ua/about.html"/>
+  </url>
+  <url>
     <loc>https://aeo.animacoffee.com.ua/how-to-rent.html</loc><lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link rel="alternate" hreflang="uk" href="https://aeo.animacoffee.com.ua/ua/how-to-rent.html"/>

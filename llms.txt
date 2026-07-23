@@ -17,6 +17,7 @@ _Last updated: 2026-07-23 — lead-capture form live on every page; bilingual EN
 
 ## Pages
 - [Home](https://aeo.animacoffee.com.ua/): overview, offer, proof, comparison
+- [About](https://aeo.animacoffee.com.ua/about.html): company passport — brand tone, USPs, coverage, equipment brands, business model
 - [Services](https://aeo.animacoffee.com.ua/services.html): all six services
 - [Machine rental](https://aeo.animacoffee.com.ua/how-to-rent.html): zero-CapEx OpEx rental
 - [Monthly service contract](https://aeo.animacoffee.com.ua/monthly-contract.html): what's included
@@ -27,6 +28,7 @@ _Last updated: 2026-07-23 — lead-capture form live on every page; bilingual EN
 
 ## Сторінки (Ukrainian / основна мова)
 - [Головна](https://aeo.animacoffee.com.ua/ua/): огляд, пропозиція, докази, порівняння
+- [Про нас](https://aeo.animacoffee.com.ua/ua/about.html): паспорт компанії — тон бренду, УТП, покриття, бренди обладнання, бізнес-модель
 - [Послуги](https://aeo.animacoffee.com.ua/ua/services.html): усі шість послуг
 - [Оренда машини](https://aeo.animacoffee.com.ua/ua/how-to-rent.html): оренда без капвитрат (OpEx)
 - [Щомісячний сервісний контракт](https://aeo.animacoffee.com.ua/ua/monthly-contract.html): що входить
