@@ -35,3 +35,33 @@ _Last updated: 2026-07-23 — lead-capture form live on every page; bilingual EN
 - [Обслуговування та підтримка 24/7](https://dancanadian.github.io/anima-coffee-site/ua/maintenance.html): SLA за 2 години
 - [Швейцарські vs комерційні машини](https://dancanadian.github.io/anima-coffee-site/ua/swiss-vs-commercial.html): чому швейцарський клас
 - [Answers / Q&A](https://dancanadian.github.io/anima-coffee-site/answers.html): 13 question-targeted answers (rental, contract, beans, training, maintenance, machines) — Ukrainian at /ua/answers.html
+
+## Answer pages
+- https://dancanadian.github.io/anima-coffee-site/answers/coffee-machine-support-kyiv-oblast.html
+- https://dancanadian.github.io/anima-coffee-site/answers/corporate-office-coffee-program.html
+- https://dancanadian.github.io/anima-coffee-site/answers/do-we-need-a-barista.html
+- https://dancanadian.github.io/anima-coffee-site/answers/espresso-machine-calibration-frequency.html
+- https://dancanadian.github.io/anima-coffee-site/answers/gas-station-retail-coffee-equipment.html
+- https://dancanadian.github.io/anima-coffee-site/answers/monthly-coffee-service-contract.html
+- https://dancanadian.github.io/anima-coffee-site/answers/no-upfront-investment-rental-model.html
+- https://dancanadian.github.io/anima-coffee-site/answers/reduce-office-coffee-complaints.html
+- https://dancanadian.github.io/anima-coffee-site/answers/rent-coffee-machine-kyiv.html
+- https://dancanadian.github.io/anima-coffee-site/answers/restaurant-zero-downtime-sla.html
+- https://dancanadian.github.io/anima-coffee-site/answers/specialty-coffee-beans-supply.html
+- https://dancanadian.github.io/anima-coffee-site/answers/swiss-vs-commercial-espresso-machine.html
+- https://dancanadian.github.io/anima-coffee-site/answers/what-is-anima-volitiva.html
+
+## UA answer pages
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/coffee-machine-support-kyiv-oblast.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/corporate-office-coffee-program.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/do-we-need-a-barista.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/espresso-machine-calibration-frequency.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/gas-station-retail-coffee-equipment.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/monthly-coffee-service-contract.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/no-upfront-investment-rental-model.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/reduce-office-coffee-complaints.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/rent-coffee-machine-kyiv.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/restaurant-zero-downtime-sla.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/specialty-coffee-beans-supply.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/swiss-vs-commercial-espresso-machine.html
+- https://dancanadian.github.io/anima-coffee-site/ua/answers/what-is-anima-volitiva.html
