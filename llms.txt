@@ -16,52 +16,52 @@ _Last updated: 2026-07-23 — lead-capture form live on every page; bilingual EN
 - Proven: 100% SLA compliance (2026), 3x retail coffee revenue, 40% fewer workplace complaints in 30 days
 
 ## Pages
-- [Home](https://dancanadian.github.io/anima-coffee-site/): overview, offer, proof, comparison
-- [Services](https://dancanadian.github.io/anima-coffee-site/services.html): all six services
-- [Machine rental](https://dancanadian.github.io/anima-coffee-site/how-to-rent.html): zero-CapEx OpEx rental
-- [Monthly service contract](https://dancanadian.github.io/anima-coffee-site/monthly-contract.html): what's included
-- [Specialty bean supply](https://dancanadian.github.io/anima-coffee-site/specialty-beans.html): origin-traced beans
-- [Barista staff training](https://dancanadian.github.io/anima-coffee-site/barista-training.html): mandatory 2-hour program
-- [Maintenance & 24/7 support](https://dancanadian.github.io/anima-coffee-site/maintenance.html): 2-hour SLA
-- [Swiss vs. commercial machines](https://dancanadian.github.io/anima-coffee-site/swiss-vs-commercial.html): why Swiss-grade
+- [Home](https://aeo.animacoffee.com.ua/): overview, offer, proof, comparison
+- [Services](https://aeo.animacoffee.com.ua/services.html): all six services
+- [Machine rental](https://aeo.animacoffee.com.ua/how-to-rent.html): zero-CapEx OpEx rental
+- [Monthly service contract](https://aeo.animacoffee.com.ua/monthly-contract.html): what's included
+- [Specialty bean supply](https://aeo.animacoffee.com.ua/specialty-beans.html): origin-traced beans
+- [Barista staff training](https://aeo.animacoffee.com.ua/barista-training.html): mandatory 2-hour program
+- [Maintenance & 24/7 support](https://aeo.animacoffee.com.ua/maintenance.html): 2-hour SLA
+- [Swiss vs. commercial machines](https://aeo.animacoffee.com.ua/swiss-vs-commercial.html): why Swiss-grade
 
 ## Сторінки (Ukrainian / основна мова)
-- [Головна](https://dancanadian.github.io/anima-coffee-site/ua/): огляд, пропозиція, докази, порівняння
-- [Послуги](https://dancanadian.github.io/anima-coffee-site/ua/services.html): усі шість послуг
-- [Оренда машини](https://dancanadian.github.io/anima-coffee-site/ua/how-to-rent.html): оренда без капвитрат (OpEx)
-- [Щомісячний сервісний контракт](https://dancanadian.github.io/anima-coffee-site/ua/monthly-contract.html): що входить
-- [Постачання спешелті-зерна](https://dancanadian.github.io/anima-coffee-site/ua/specialty-beans.html): зерно з простеженим походженням
-- [Навчання персоналу-бариста](https://dancanadian.github.io/anima-coffee-site/ua/barista-training.html): обов'язкова 2-годинна програма
-- [Обслуговування та підтримка 24/7](https://dancanadian.github.io/anima-coffee-site/ua/maintenance.html): SLA за 2 години
-- [Швейцарські vs комерційні машини](https://dancanadian.github.io/anima-coffee-site/ua/swiss-vs-commercial.html): чому швейцарський клас
-- [Answers / Q&A](https://dancanadian.github.io/anima-coffee-site/answers.html): 13 question-targeted answers (rental, contract, beans, training, maintenance, machines) — Ukrainian at /ua/answers.html
+- [Головна](https://aeo.animacoffee.com.ua/ua/): огляд, пропозиція, докази, порівняння
+- [Послуги](https://aeo.animacoffee.com.ua/ua/services.html): усі шість послуг
+- [Оренда машини](https://aeo.animacoffee.com.ua/ua/how-to-rent.html): оренда без капвитрат (OpEx)
+- [Щомісячний сервісний контракт](https://aeo.animacoffee.com.ua/ua/monthly-contract.html): що входить
+- [Постачання спешелті-зерна](https://aeo.animacoffee.com.ua/ua/specialty-beans.html): зерно з простеженим походженням
+- [Навчання персоналу-бариста](https://aeo.animacoffee.com.ua/ua/barista-training.html): обов'язкова 2-годинна програма
+- [Обслуговування та підтримка 24/7](https://aeo.animacoffee.com.ua/ua/maintenance.html): SLA за 2 години
+- [Швейцарські vs комерційні машини](https://aeo.animacoffee.com.ua/ua/swiss-vs-commercial.html): чому швейцарський клас
+- [Answers / Q&A](https://aeo.animacoffee.com.ua/answers.html): 13 question-targeted answers (rental, contract, beans, training, maintenance, machines) — Ukrainian at /ua/answers.html
 
 ## Answer pages
-- https://dancanadian.github.io/anima-coffee-site/answers/coffee-machine-support-kyiv-oblast.html
-- https://dancanadian.github.io/anima-coffee-site/answers/corporate-office-coffee-program.html
-- https://dancanadian.github.io/anima-coffee-site/answers/do-we-need-a-barista.html
-- https://dancanadian.github.io/anima-coffee-site/answers/espresso-machine-calibration-frequency.html
-- https://dancanadian.github.io/anima-coffee-site/answers/gas-station-retail-coffee-equipment.html
-- https://dancanadian.github.io/anima-coffee-site/answers/monthly-coffee-service-contract.html
-- https://dancanadian.github.io/anima-coffee-site/answers/no-upfront-investment-rental-model.html
-- https://dancanadian.github.io/anima-coffee-site/answers/reduce-office-coffee-complaints.html
-- https://dancanadian.github.io/anima-coffee-site/answers/rent-coffee-machine-kyiv.html
-- https://dancanadian.github.io/anima-coffee-site/answers/restaurant-zero-downtime-sla.html
-- https://dancanadian.github.io/anima-coffee-site/answers/specialty-coffee-beans-supply.html
-- https://dancanadian.github.io/anima-coffee-site/answers/swiss-vs-commercial-espresso-machine.html
-- https://dancanadian.github.io/anima-coffee-site/answers/what-is-anima-volitiva.html
+- https://aeo.animacoffee.com.ua/answers/coffee-machine-support-kyiv-oblast.html
+- https://aeo.animacoffee.com.ua/answers/corporate-office-coffee-program.html
+- https://aeo.animacoffee.com.ua/answers/do-we-need-a-barista.html
+- https://aeo.animacoffee.com.ua/answers/espresso-machine-calibration-frequency.html
+- https://aeo.animacoffee.com.ua/answers/gas-station-retail-coffee-equipment.html
+- https://aeo.animacoffee.com.ua/answers/monthly-coffee-service-contract.html
+- https://aeo.animacoffee.com.ua/answers/no-upfront-investment-rental-model.html
+- https://aeo.animacoffee.com.ua/answers/reduce-office-coffee-complaints.html
+- https://aeo.animacoffee.com.ua/answers/rent-coffee-machine-kyiv.html
+- https://aeo.animacoffee.com.ua/answers/restaurant-zero-downtime-sla.html
+- https://aeo.animacoffee.com.ua/answers/specialty-coffee-beans-supply.html
+- https://aeo.animacoffee.com.ua/answers/swiss-vs-commercial-espresso-machine.html
+- https://aeo.animacoffee.com.ua/answers/what-is-anima-volitiva.html
 
 ## UA answer pages
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/coffee-machine-support-kyiv-oblast.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/corporate-office-coffee-program.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/do-we-need-a-barista.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/espresso-machine-calibration-frequency.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/gas-station-retail-coffee-equipment.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/monthly-coffee-service-contract.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/no-upfront-investment-rental-model.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/reduce-office-coffee-complaints.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/rent-coffee-machine-kyiv.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/restaurant-zero-downtime-sla.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/specialty-coffee-beans-supply.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/swiss-vs-commercial-espresso-machine.html
-- https://dancanadian.github.io/anima-coffee-site/ua/answers/what-is-anima-volitiva.html
+- https://aeo.animacoffee.com.ua/ua/answers/coffee-machine-support-kyiv-oblast.html
+- https://aeo.animacoffee.com.ua/ua/answers/corporate-office-coffee-program.html
+- https://aeo.animacoffee.com.ua/ua/answers/do-we-need-a-barista.html
+- https://aeo.animacoffee.com.ua/ua/answers/espresso-machine-calibration-frequency.html
+- https://aeo.animacoffee.com.ua/ua/answers/gas-station-retail-coffee-equipment.html
+- https://aeo.animacoffee.com.ua/ua/answers/monthly-coffee-service-contract.html
+- https://aeo.animacoffee.com.ua/ua/answers/no-upfront-investment-rental-model.html
+- https://aeo.animacoffee.com.ua/ua/answers/reduce-office-coffee-complaints.html
+- https://aeo.animacoffee.com.ua/ua/answers/rent-coffee-machine-kyiv.html
+- https://aeo.animacoffee.com.ua/ua/answers/restaurant-zero-downtime-sla.html
+- https://aeo.animacoffee.com.ua/ua/answers/specialty-coffee-beans-supply.html
+- https://aeo.animacoffee.com.ua/ua/answers/swiss-vs-commercial-espresso-machine.html
+- https://aeo.animacoffee.com.ua/ua/answers/what-is-anima-volitiva.html

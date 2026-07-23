@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://dancanadian.github.io/anima-coffee-site/sitemap.xml
+Sitemap: https://aeo.animacoffee.com.ua/sitemap.xml

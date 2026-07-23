@@ -15,7 +15,7 @@ Does NOT touch DNS, CNAME, or any founder-gated infra — see DOMAIN_READY.md.
 """
 import argparse, pathlib, sys
 
-CURRENT_BASE_URL = "https://dancanadian.github.io/anima-coffee-site"
+CURRENT_BASE_URL = "https://aeo.animacoffee.com.ua"
 
 EXTENSIONS = {".html", ".xml", ".txt"}
 
