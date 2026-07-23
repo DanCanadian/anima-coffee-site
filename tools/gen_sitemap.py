@@ -19,8 +19,16 @@ def url_for(p: pathlib.Path) -> str:
     if rel == "ua/index.html": return "/ua/"
     return "/" + rel
 
+def _indexable(p):
+    # skip pages carrying a robots noindex directive (thin tier stays live but out of sitemap)
+    try:
+        return 'noindex' not in p.read_text(encoding='utf-8', errors='ignore').lower()
+    except Exception:
+        return True
+
 def collect(globpat):
-    return sorted(p for p in root.glob(globpat) if "ppc/" not in p.as_posix())
+    return sorted(p for p in root.glob(globpat)
+                  if "ppc/" not in p.as_posix() and _indexable(p))
 
 en = collect("*.html") + collect("answers/*.html")
 ua = collect("ua/*.html") + collect("ua/answers/*.html")
