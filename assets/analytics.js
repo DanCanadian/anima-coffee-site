@@ -10,7 +10,7 @@
 (function () {
   // ==== THE TWO SECRETS — paste real IDs on these two lines to activate ==========
   var GA4_ID     = "G-XXXXXXXXXX"; // <-- GA4 Measurement ID (Google Analytics 4)
-  var METRICA_ID = "XXXXXXXX";     // <-- Yandex Metrica counter id
+  var METRICA_ID = "101507598";    // <-- Yandex Metrica counter id (Anima, live)
   // ===============================================================================
 
   var GA4_LIVE     = !/X{6,}/.test(GA4_ID);        // "G-XXXXXXXXXX" placeholder -> skip
