@@ -1,5 +1,7 @@
 # Anima Volitiva — Managed B2B Coffee Infrastructure (Kyiv & Kyiv Oblast)
 
+_Last updated: 2026-07-23 — lead-capture form live on every page; bilingual EN/UA._
+
 > Anima Volitiva provides fully-managed, flat-rate B2B coffee infrastructure for HoReCa, retail and corporate offices across Kyiv and Kyiv Oblast: Swiss-grade Franke and WMF super-automatic machines, origin-traced specialty beans, mandatory 2-hour barista training and 24/7 technical support with a guaranteed 2-hour emergency response — one flat monthly invoice, zero upfront CapEx.
 
 > Languages: the site is bilingual. Ukrainian is the primary language for the native Kyiv market (served under /ua/), with English available at the root for wider reach. Every page has both a Ukrainian and an English version, cross-linked via hreflang (uk / en / x-default→uk).

@@ -6,6 +6,7 @@
 <title>Swiss Super-Automatic vs. Commercial Espresso Machines | Anima Volitiva</title>
 <meta name="description" content="Why Swiss-grade Franke & WMF super-automatics outperform standard commercial machines for high-volume Kyiv operations — with zero upfront investment." />
 <link rel="stylesheet" href="style.css" />
+<link rel="canonical" href="https://dancanadian.github.io/anima-coffee-site/swiss-vs-commercial.html" />
 <link rel="alternate" hreflang="en" href="https://dancanadian.github.io/anima-coffee-site/swiss-vs-commercial.html" />
 <link rel="alternate" hreflang="uk" href="https://dancanadian.github.io/anima-coffee-site/ua/swiss-vs-commercial.html" />
 <link rel="alternate" hreflang="x-default" href="https://dancanadian.github.io/anima-coffee-site/ua/swiss-vs-commercial.html" />
@@ -84,20 +85,34 @@
 
 <section class="cta block">
   <div class="wrap"><span class="eyebrow on-dark">Start today</span><h2>Enterprise-grade coffee, zero enterprise-grade capital.</h2><p>Secure a zero-upfront Swiss-grade coffee ecosystem for your Kyiv operation.</p>
-    <div class="cta-btns"><a class="btn btn-primary" href="mailto:hello@animacoffee.com.ua">Secure your ecosystem</a><a class="btn btn-ghost" href="services.html">All services</a></div>
+    <div class="lead-wrap"><form class="lead-form" id="leadForm" data-endpoint="">
+  <div class="lf-row">
+    <label>Name<input name="name" required autocomplete="name" placeholder="Your name"></label>
+    <label>Business<input name="business" required placeholder="Company or venue"></label>
+  </div>
+  <div class="lf-row">
+    <label>City<input name="city" required placeholder="Kyiv"></label>
+    <label>Machines needed<input name="machines" inputmode="numeric" placeholder="e.g. 2"></label>
+  </div>
+  <label>Email or phone<input name="contact" required placeholder="you@company.com or +380..."></label>
+  <label>Anything specific? <span class="lf-opt">(optional)</span><textarea name="message" rows="2" placeholder="Cups per day, site type, timeline..."></textarea></label>
+  <button type="submit" class="btn btn-primary lf-submit">Get my custom assessment</button>
+  <p class="lf-note">No obligation &middot; 2-hour SLA &middot; we reply within one business day.</p>
+  <p class="lf-status" role="status" aria-live="polite"></p>
+</form></div>
   </div>
 </section>
 
-<footer><div class="wrap"><a class="brand" href="index.html" style="color:#cbb9a6">Anima <span style="color:var(--accent)">Volitiva</span></a><div class="fnav"><a href="services.html">Services</a><a href="how-to-rent.html">Rental</a><a href="monthly-contract.html">Monthly contract</a><a href="specialty-beans.html">Beans</a><a href="barista-training.html">Training</a><a href="maintenance.html">Support</a></div><div>© 2026 Anima Volitiva · Kyiv &amp; Kyiv Oblast</div></div></footer>
+<footer><div class="wrap"><a class="brand" href="index.html" style="color:#cbb9a6">Anima <span style="color:var(--accent)">Volitiva</span></a><div class="fnav"><a href="services.html">Services</a><a href="how-to-rent.html">Rental</a><a href="monthly-contract.html">Monthly contract</a><a href="specialty-beans.html">Beans</a><a href="barista-training.html">Training</a><a href="maintenance.html">Support</a><a href="answers.html">Answers</a><a class="fcta" href="index.html#cta">Get assessment</a></div><div>© 2026 Anima Volitiva · Kyiv &amp; Kyiv Oblast</div></div></footer>
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
  "@graph": [
   {
    "@type": "Organization",
-   "@id": "https://animacoffee.com.ua/#organization",
+   "@id": "https://dancanadian.github.io/anima-coffee-site/#organization",
    "name": "Anima Volitiva",
-   "url": "https://animacoffee.com.ua/",
+   "url": "https://dancanadian.github.io/anima-coffee-site/",
    "areaServed": "Kyiv Oblast",
    "description": "Managed B2B coffee infrastructure — Swiss machines, specialty beans, training and 24/7 support in one flat monthly invoice with a 2-hour SLA."
   },
@@ -105,7 +120,7 @@
    "@type": "Service",
    "name": "Swiss Super-Automatic Machines",
    "provider": {
-    "@id": "https://animacoffee.com.ua/#organization"
+    "@id": "https://dancanadian.github.io/anima-coffee-site/#organization"
    },
    "areaServed": "Kyiv Oblast",
    "description": "Swiss-grade Franke and WMF super-automatic espresso machines on a zero-upfront managed model, engineered for high-volume Kyiv operations.",
@@ -172,5 +187,6 @@
  ]
 }
 </script>
+<script src="assets/lead.js"></script>
 </body>
 </html>

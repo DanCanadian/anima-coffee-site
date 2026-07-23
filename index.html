@@ -6,6 +6,7 @@
 <title>Anima Volitiva — Zero-Headache Coffee Infrastructure for Kyiv Business</title>
 <meta name="description" content="Swiss-grade machines, specialty beans, staff training and a guaranteed 2-hour repair SLA — one flat monthly invoice. No €15k upfront. Zero downtime. Kyiv & Kyiv Oblast." />
 <link rel="stylesheet" href="style.css" />
+<link rel="canonical" href="https://dancanadian.github.io/anima-coffee-site/" />
 <link rel="alternate" hreflang="en" href="https://dancanadian.github.io/anima-coffee-site/" />
 <link rel="alternate" hreflang="uk" href="https://dancanadian.github.io/anima-coffee-site/ua/" />
 <link rel="alternate" hreflang="x-default" href="https://dancanadian.github.io/anima-coffee-site/ua/" />
@@ -210,19 +211,74 @@
     <h2>Turn coffee from a liability into a retention asset.</h2>
     <p>Get a custom B2B coffee assessment for your Kyiv site — grid, water and volume mapped, spec matched, no obligation.</p>
     <div class="price-row">Growth Bundle <b>$1,997/mo</b> · Enterprise infrastructure from <b>$10,000+</b></div>
-    <div class="cta-btns">
-      <a class="btn btn-primary" href="mailto:hello@animacoffee.com.ua">Get your custom assessment</a>
-      <a class="btn btn-ghost" href="services.html">Explore all services</a>
-    </div>
+    <div class="lead-wrap"><form class="lead-form" id="leadForm" data-endpoint="">
+  <div class="lf-row">
+    <label>Name<input name="name" required autocomplete="name" placeholder="Your name"></label>
+    <label>Business<input name="business" required placeholder="Company or venue"></label>
+  </div>
+  <div class="lf-row">
+    <label>City<input name="city" required placeholder="Kyiv"></label>
+    <label>Machines needed<input name="machines" inputmode="numeric" placeholder="e.g. 2"></label>
+  </div>
+  <label>Email or phone<input name="contact" required placeholder="you@company.com or +380..."></label>
+  <label>Anything specific? <span class="lf-opt">(optional)</span><textarea name="message" rows="2" placeholder="Cups per day, site type, timeline..."></textarea></label>
+  <button type="submit" class="btn btn-primary lf-submit">Get my custom assessment</button>
+  <p class="lf-note">No obligation &middot; 2-hour SLA &middot; we reply within one business day.</p>
+  <p class="lf-status" role="status" aria-live="polite"></p>
+</form></div>
   </div>
 </section>
 
 <footer><div class="wrap">
   <a class="brand" href="index.html" style="color:#cbb9a6">Anima <span style="color:var(--accent)">Volitiva</span></a>
-  <div class="fnav">
-    <a href="services.html">Services</a><a href="how-to-rent.html">Rental</a><a href="monthly-contract.html">Monthly contract</a><a href="specialty-beans.html">Beans</a><a href="barista-training.html">Training</a><a href="maintenance.html">Support</a>
-  </div>
+  <div class="fnav"><a href="services.html">Services</a><a href="how-to-rent.html">Rental</a><a href="monthly-contract.html">Monthly contract</a><a href="specialty-beans.html">Beans</a><a href="barista-training.html">Training</a><a href="maintenance.html">Support</a><a href="answers.html">Answers</a><a class="fcta" href="index.html#cta">Get assessment</a></div>
   <div>© 2026 Anima Volitiva · Kyiv &amp; Kyiv Oblast</div>
 </div></footer>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Organization",
+   "@id": "https://dancanadian.github.io/anima-coffee-site/#organization",
+   "name": "Anima Volitiva",
+   "url": "https://dancanadian.github.io/anima-coffee-site/",
+   "areaServed": "Kyiv Oblast",
+   "description": "Managed B2B coffee infrastructure — Swiss machines, specialty beans, training and 24/7 support in one flat monthly invoice with a 2-hour SLA."
+  },
+  {
+   "@type": "Service",
+   "name": "Managed B2B Coffee Infrastructure",
+   "provider": { "@id": "https://dancanadian.github.io/anima-coffee-site/#organization" },
+   "areaServed": "Kyiv Oblast",
+   "description": "Swiss-grade machines, origin-traced specialty beans, mandatory barista training and 24/7 support with a guaranteed 2-hour emergency response — one flat monthly invoice, zero upfront CapEx.",
+   "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "lowPrice": "1997.00",
+    "highPrice": "10000.00",
+    "offerCount": "2"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://dancanadian.github.io/anima-coffee-site/" }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    { "@type": "Question", "name": "What happens if the machine breaks down during a morning rush?", "acceptedAnswer": { "@type": "Answer", "text": "You never wait days. We guarantee a 2-hour emergency response anywhere in Kyiv and Kyiv Oblast. Local, Ukrainian-speaking technicians arrive with the spare parts to bring your Swiss super-automatic back online immediately." } },
+    { "@type": "Question", "name": "Do we have to buy a minimum amount of beans every month?", "acceptedAnswer": { "@type": "Answer", "text": "No. Unlike legacy roasters that force 15-30kg monthly quotas to pay off their free equipment, Anima never forces quotas. Our flat-rate service covers your infrastructure." } },
+    { "@type": "Question", "name": "Are the machines protected against blackouts and voltage spikes?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. We install industrial voltage stabilizers with every machine to buffer against lethal spikes from diesel generators and unstable grids." } },
+    { "@type": "Question", "name": "What exactly is in the flat monthly invoice?", "acceptedAnswer": { "@type": "Answer", "text": "Everything for continuous operation: Swiss equipment rental, premium origin-traced beans, 24/7 technical support, the 2-hour emergency SLA, mandatory staff training and monthly localized water calibration." } },
+    { "@type": "Question", "name": "What are your standard packages?", "acceptedAnswer": { "@type": "Answer", "text": "Our core B2B managed offering maps to the Growth Bundle at $1,997/mo. For multi-location retail or high-volume corporate integrations, we provide custom Enterprise quotes starting at $10,000+." } }
+   ]
+  }
+ ]
+}
+</script>
+<script src="assets/lead.js"></script>
 </body>
 </html>
