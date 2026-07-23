@@ -22,6 +22,10 @@ CORE_MAP = {
     "barista_staff_training_for_office_coffee_setups_Landing_Page.md": "barista-training.html",
     "swiss_super_automatic_vs_commercial_espresso_machines_Landing_Page.md": "swiss-vs-commercial.html",
 }
+# same lake sources, but the UA-localized page. UA word counts naturally run
+# somewhat lower than EN for equivalent content (no articles, case-collapsed
+# prepositions), so the gate uses --lang uk to point at these instead.
+UA_MAP = {md: f"ua/{page}" for md, page in CORE_MAP.items()}
 DEFAULT_LAKE = "/mnt/c/Dev Antigravity/ADV AI HUB/deep_research/output/Anima_Volitiva_0619_LAKEJOIN_REAL_KG"
 
 def words(s): return len(re.findall(r"\w+", s))
@@ -32,21 +36,23 @@ def main():
     ap.add_argument("--lake", default=DEFAULT_LAKE)
     ap.add_argument("--site", default=str(pathlib.Path(__file__).resolve().parent.parent))
     ap.add_argument("--min", type=float, default=0.85)
+    ap.add_argument("--lang", choices=["en", "uk"], default="en", help="en = EN core pages (default), uk = UA-localized core pages")
     a = ap.parse_args()
     lake, site = pathlib.Path(a.lake), pathlib.Path(a.site)
+    page_map = UA_MAP if a.lang == "uk" else CORE_MAP
     ok = True
-    print(f"{'PAGE':26} {'src':>6} {'built':>6} {'%':>5} {'kg':>4}  verdict")
-    for md, page in CORE_MAP.items():
+    print(f"{'PAGE':29} {'src':>6} {'built':>6} {'%':>5} {'kg':>4}  verdict")
+    for md, page in page_map.items():
         src = lake / md; pg = site / page
-        if not src.exists(): print(f"{page:26} MISSING SOURCE {md}"); ok = False; continue
-        if not pg.exists(): print(f"{page:26} MISSING PAGE"); ok = False; continue
+        if not src.exists(): print(f"{page:29} MISSING SOURCE {md}"); ok = False; continue
+        if not pg.exists(): print(f"{page:29} MISSING PAGE"); ok = False; continue
         sp, bp = words(src.read_text(encoding="utf-8", errors="ignore")), visible(pg.read_text(encoding="utf-8", errors="ignore"))
         kg = len(re.findall(r"data-kg-(ref|triple)", pg.read_text(encoding="utf-8", errors="ignore")))
         ratio = bp / sp if sp else 0
         good = ratio >= a.min and kg > 0
         ok = ok and good
-        print(f"{page:26} {sp:6} {bp:6} {ratio*100:4.0f}% {kg:4}  {'PASS' if good else 'FAIL'}")
-    print(f"\nGATE: {'PASS — lake consumed >= %.0f%% on all core pages' % (a.min*100) if ok else 'FAIL — under-consumed lake or missing KG grounding'}")
+        print(f"{page:29} {sp:6} {bp:6} {ratio*100:4.0f}% {kg:4}  {'PASS' if good else 'FAIL'}")
+    print(f"\nGATE ({a.lang}): {'PASS — lake consumed >= %.0f%% on all core pages' % (a.min*100) if ok else 'FAIL — under-consumed lake or missing KG grounding'}")
     sys.exit(0 if ok else 1)
 
 if __name__ == "__main__":
