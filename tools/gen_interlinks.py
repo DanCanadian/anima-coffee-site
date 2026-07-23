@@ -73,10 +73,10 @@ def build(subdir, heading, cta_word):
         if len(sibs) < 3:  # top up so every page links out
             sibs = (sibs + [q for q in pages if q is not p and q not in sibs])[:4]
         items = ""
+        import os as _os
         for q in sibs:
-            href = q.name if not subdir else q.relative_to(ROOT / subdir).as_posix()
-            if q.parent.name == "answers":
-                href = ("answers/" if not subdir else "answers/") + q.name
+            # correct relative path from THIS page's directory to the target (works at any depth)
+            href = _os.path.relpath(q, start=p.parent).replace("\\", "/")
             items += (f'<li><a href="{href}" rel="related" '
                       f'style="color:var(--accent);text-decoration:none;font-weight:600">'
                       f'{html.escape(meta[q]["title"])}</a></li>')
