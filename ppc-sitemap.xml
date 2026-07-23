@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- PPC landing pages for PAID traffic only. Deliberately NOT referenced from robots.txt
+     and NOT in the main sitemap; pages carry <meta name="robots" content="noindex,follow">.
+     This file is for the ad operator's reference. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://dancanadian.github.io/anima-coffee-site/ppc/office-coffee-beans.html</loc><lastmod>2026-07-23</lastmod></url>
+  <url><loc>https://dancanadian.github.io/anima-coffee-site/ppc/coffee-subscription-kyiv.html</loc><lastmod>2026-07-23</lastmod></url>
+  <url><loc>https://dancanadian.github.io/anima-coffee-site/ppc/forecourt-coffee-equipment.html</loc><lastmod>2026-07-23</lastmod></url>
+  <url><loc>https://dancanadian.github.io/anima-coffee-site/ppc/swiss-coffee-machine-rental.html</loc><lastmod>2026-07-23</lastmod></url>
+</urlset>

@@ -244,3 +244,26 @@ footer .brand{font-size:18px}
 /* footer nav + CTA (complete nav on mobile, where top links collapse) */
 footer .fcta{background:var(--accent);color:#1a120b!important;padding:9px 16px;border-radius:2px;font-weight:600;font-size:13px}
 footer .fcta:hover{background:var(--accent-deep)}
+
+/* ============ PPC landing pages (paid traffic, /ppc/) ============ */
+.ppc-nav{position:sticky;top:0;z-index:40;background:rgba(23,16,12,.96);border-bottom:1px solid rgba(246,241,233,.08)}
+.ppc-nav .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
+.ppc-nav .brand{font-family:var(--serif);font-size:22px;color:var(--cream)}
+.ppc-nav .brand span{color:var(--accent)}
+.ppc-hero .wrap{display:grid;grid-template-columns:1.05fr .95fr;gap:52px;align-items:start;padding:64px 32px 72px;max-width:1180px}
+.ppc-hero h1{font-size:clamp(30px,3.7vw,46px);line-height:1.08;color:var(--cream);max-width:15ch}
+.ppc-hero .sub{margin-top:20px;font-size:18px;line-height:1.55;color:#d3c6b6;max-width:42em}
+.ppc-proof{list-style:none;display:flex;flex-wrap:wrap;gap:10px;margin:26px 0 0;padding:0}
+.ppc-proof li{display:flex;align-items:baseline;gap:8px;background:rgba(246,241,233,.06);border:1px solid rgba(246,241,233,.14);border-radius:2px;padding:9px 14px;font-size:14px;color:#e7ddce}
+.ppc-proof b{font-family:var(--serif);font-size:19px;color:var(--accent)}
+.ppc-trust{margin-top:22px;font-size:13.5px;color:#9b8a77}
+.ppc-trust b{color:#d3c6b6;font-weight:600}
+.ppc-hero-form{background:var(--cream);border-radius:12px;padding:8px;box-shadow:0 40px 90px -40px rgba(0,0,0,.7)}
+.ppc-hero-form .lf-head{padding:16px 20px 4px}
+.ppc-hero-form .lf-head .eyebrow{color:var(--accent-deep)}
+.ppc-hero-form .lf-head h2{font-size:22px;color:var(--ink);margin-top:6px;line-height:1.15}
+.ppc-hero-form .lead-form{box-shadow:none;border:none;background:transparent;padding:10px 20px 18px}
+@media(max-width:860px){.ppc-hero .wrap{grid-template-columns:1fr;gap:34px;padding:44px 32px 52px}.ppc-hero h1{max-width:none}}
+.ppc-band{background:var(--cream-2);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.ppc-band .wrap{padding:26px 32px;display:flex;flex-wrap:wrap;gap:14px 34px;justify-content:center;align-items:center;font-size:14.5px;color:var(--ink-soft)}
+.ppc-band b{color:var(--ink)}
