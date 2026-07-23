@@ -1,3 +1,26 @@
+# Anima Volitiva — open to search + answer engines. Primary market: Ukraine (Google-dominant).
 User-agent: *
 Allow: /
+
+# Answer-engine / AI crawlers explicitly welcome (AEO)
+User-agent: Googlebot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+
 Sitemap: https://aeo.animacoffee.com.ua/sitemap.xml
+Sitemap: https://aeo.animacoffee.com.ua/ppc-sitemap.xml
