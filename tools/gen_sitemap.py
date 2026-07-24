@@ -30,8 +30,8 @@ def collect(globpat):
     return sorted(p for p in root.glob(globpat)
                   if "ppc/" not in p.as_posix() and _indexable(p))
 
-en = collect("*.html") + collect("answers/*.html")
-ua = collect("ua/*.html") + collect("ua/answers/*.html")
+en = collect("*.html") + collect("answers/*.html") + collect("blog/*.html")
+ua = collect("ua/*.html") + collect("ua/answers/*.html") + collect("ua/blog/*.html")
 
 def ua_counterpart(en_path):
     rel = en_path.relative_to(root).as_posix()

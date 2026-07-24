@@ -180,6 +180,20 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://aeo.animacoffee.com.ua/answers/what-kyiv-coffee-operators-ask.html"/>
   </url>
   <url>
+    <loc>https://aeo.animacoffee.com.ua/blog/capex-vs-opex-b2b-coffee-kyiv.html</loc><lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://aeo.animacoffee.com.ua/ua/blog/capex-vs-opex-b2b-coffee-kyiv.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aeo.animacoffee.com.ua/blog/capex-vs-opex-b2b-coffee-kyiv.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aeo.animacoffee.com.ua/blog/capex-vs-opex-b2b-coffee-kyiv.html"/>
+  </url>
+  <url>
+    <loc>https://aeo.animacoffee.com.ua/blog/index.html</loc><lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://aeo.animacoffee.com.ua/ua/blog/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aeo.animacoffee.com.ua/blog/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aeo.animacoffee.com.ua/blog/index.html"/>
+  </url>
+  <url>
     <loc>https://aeo.animacoffee.com.ua/ua/about.html</loc><lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
   </url>
@@ -277,6 +291,14 @@
   </url>
   <url>
     <loc>https://aeo.animacoffee.com.ua/ua/answers/what-kyiv-coffee-operators-ask.html</loc><lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://aeo.animacoffee.com.ua/ua/blog/capex-vs-opex-b2b-coffee-kyiv.html</loc><lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://aeo.animacoffee.com.ua/ua/blog/index.html</loc><lastmod>2026-07-23</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
